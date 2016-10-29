@@ -1,4 +1,4 @@
-[![Build Status](https://codeship.com/projects/182030/status?branch=master)
+![Build Status](https://codeship.com/projects/b83380a0-8008-0134-bf93-165195a768fc/status?branch=master)
 [![Code Climate](https://codeclimate.com/github/julianguyen/ifme/badges/gpa.svg)](https://codeclimate.com/github/julianguyen/ifme)
 
 if me
